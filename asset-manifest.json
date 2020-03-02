@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.js": "/dynamic-animations/static/js/main.e1ea054d.chunk.js",
-    "main.js.map": "/dynamic-animations/static/js/main.e1ea054d.chunk.js.map",
-    "runtime-main.js": "/dynamic-animations/static/js/runtime-main.1b4518ac.js",
-    "runtime-main.js.map": "/dynamic-animations/static/js/runtime-main.1b4518ac.js.map",
-    "static/js/2.3907b03b.chunk.js": "/dynamic-animations/static/js/2.3907b03b.chunk.js",
-    "static/js/2.3907b03b.chunk.js.map": "/dynamic-animations/static/js/2.3907b03b.chunk.js.map",
-    "index.html": "/dynamic-animations/index.html",
-    "precache-manifest.f882c922af437ae6cee588491a51b2cd.js": "/dynamic-animations/precache-manifest.f882c922af437ae6cee588491a51b2cd.js",
-    "service-worker.js": "/dynamic-animations/service-worker.js",
-    "static/js/2.3907b03b.chunk.js.LICENSE.txt": "/dynamic-animations/static/js/2.3907b03b.chunk.js.LICENSE.txt",
-    "static/media/message.jpeg": "/dynamic-animations/static/media/message.de048ba3.jpeg",
-    "static/media/team.jpg": "/dynamic-animations/static/media/team.b48e9835.jpg",
-    "static/media/window.jpg": "/dynamic-animations/static/media/window.b42a5385.jpg"
+    "main.js": "/animations/static/js/main.e1ea054d.chunk.js",
+    "main.js.map": "/animations/static/js/main.e1ea054d.chunk.js.map",
+    "runtime-main.js": "/animations/static/js/runtime-main.02185034.js",
+    "runtime-main.js.map": "/animations/static/js/runtime-main.02185034.js.map",
+    "static/js/2.74d10ae1.chunk.js": "/animations/static/js/2.74d10ae1.chunk.js",
+    "static/js/2.74d10ae1.chunk.js.map": "/animations/static/js/2.74d10ae1.chunk.js.map",
+    "index.html": "/animations/index.html",
+    "precache-manifest.f07f82d4f5aa1b3611e70295bc8d5dff.js": "/animations/precache-manifest.f07f82d4f5aa1b3611e70295bc8d5dff.js",
+    "service-worker.js": "/animations/service-worker.js",
+    "static/js/2.74d10ae1.chunk.js.LICENSE.txt": "/animations/static/js/2.74d10ae1.chunk.js.LICENSE.txt",
+    "static/media/message.jpeg": "/animations/static/media/message.de048ba3.jpeg",
+    "static/media/team.jpg": "/animations/static/media/team.b48e9835.jpg",
+    "static/media/window.jpg": "/animations/static/media/window.b42a5385.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.1b4518ac.js",
-    "static/js/2.3907b03b.chunk.js",
+    "static/js/runtime-main.02185034.js",
+    "static/js/2.74d10ae1.chunk.js",
     "static/js/main.e1ea054d.chunk.js"
   ]
 }
