@@ -369,6 +369,12 @@ module.exports = function(webpackEnv) {
 
                 plugins: [
                   [
+                    require.resolve("babel-plugin-styled-components"),
+                    {
+                      displayName: true
+                    }
+                  ],
+                  [
                     require.resolve("babel-plugin-named-asset-import"),
                     {
                       loaderMap: {

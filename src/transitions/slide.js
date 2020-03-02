@@ -6,8 +6,8 @@ const duration = 2000;
 const slideOut = keyframes`
 0% { }
 25% { opacity: .5; transform: translateZ(-500px); }
-75% { opacity: .5; transform: translateZ(-500px) translateX(-200vw); }
-100% { opacity: .5; transform: translateZ(-500px) translateX(-200vw); }
+75% { opacity: .5; transform: translateZ(-1500px) translateX(-200vw); }
+100% { opacity: .5; transform: translateZ(-1500px) translateX(-200vw); }
 `;
 const slideIn = keyframes`
 0%, 25% { opacity: .5; transform: translateZ(-500px) translateX(120vw); }

@@ -16,7 +16,7 @@ export default ({ transition = "", duration = 0, pageKey, children }) => (
     >
       <CSSTransition key={pageKey}>
         {/* you should wrap CSSTransition child in a div in case it could be null
-      see https://github.com/reactjs/react-transition-group/issues/208 */}
+      see https://github. com/reactjs/react-transition-group/issues/208 */}
         <div>{children}</div>
       </CSSTransition>
     </TransitionGroup>
